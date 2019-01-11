@@ -21,7 +21,7 @@ public class BeadTester1 {
         b2.setColor("red");
         b2.setLetter('s');
         //b2.letter='s';
-        System.out.println("hiieee Git Repository update");
+        System.out.println("hiieee version1 Git Repository update");
         
         
     }
