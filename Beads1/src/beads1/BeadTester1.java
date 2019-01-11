@@ -22,7 +22,7 @@ public class BeadTester1 {
         b2.setLetter('s');
         //b2.letter='s';
         System.out.println("hiieee version1 Git Repository update");
-        
+        System.out.println("See you!");
         
     }
 }
