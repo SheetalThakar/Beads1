@@ -19,9 +19,9 @@ public class BeadTester1 {
         Beads1 b1=new Beads1("yellow",'w');
         Beads1 b2=new Beads1();
         b2.setColor("red");
-        //color="red";
         b2.setLetter('s');
         //b2.letter='s';
+        System.out.println("Git Repository update");
         
         
     }
