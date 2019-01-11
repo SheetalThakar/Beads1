@@ -23,6 +23,7 @@ public class BeadTester1 {
         //b2.letter='s';
         System.out.println("hiieee version1 Git Repository update");
         System.out.println("See you!");
+        System.out.println("Bye!");
         
     }
 }
