@@ -24,6 +24,6 @@ public class BeadTester1 {
         System.out.println("hiieee version1 Git Repository update");
         System.out.println("See you!");
         System.out.println("Bye!");
-        
+        System.out.println("See you!");
     }
 }
